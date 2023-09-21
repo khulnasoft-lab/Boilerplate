@@ -1,0 +1,36 @@
+{
+  "name": "boilerplate-javascript",
+  "version": "1.0.0",
+  "description": "A boilerplate javascript project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khulnasoft-lab/boilerplate.git"
+  },
+  "engines": {
+    "node": ">=4.7.2"
+  },
+  "keywords": [
+    "KhulnaSoft",
+    "boilerplate",
+    "Getting-Started"
+  ],
+  "author": "Md Sulaiman <admin@khulnasoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khulnasoft-lab/boilerplate/issues"
+  },
+  "homepage": "https://github.com/khulnasoft-lab/boilerplate#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-table2": "^0.2.0",
+    "khulnasoft-lab": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
