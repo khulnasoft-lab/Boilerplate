@@ -31,6 +31,6 @@
     "khulnasoft-lab": "^4.3.0"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^3.0.0"
   }
 }
