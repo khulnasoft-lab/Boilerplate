@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/khulnasoft-lab/boilerplate#readme",
   "dependencies": {
-    "chalk": "^1.1.3",
+    "chalk": "^5.0.0",
     "cli-table2": "^0.2.0",
     "khulnasoft-lab": "^4.3.0"
   },
